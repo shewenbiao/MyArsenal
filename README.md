@@ -106,10 +106,10 @@ Method names are typically **verbs** or **verb** phrases. For example, sendMessa
 Underscores may appear in JUnit test method names to separate logical components of the name. One typical pattern is test<MethodUnderTest>_<state>, for example testPop_emptyStack. There is no One Correct Way to name test methods.
 ```java
 public class MyClass {
-       Public String getName();
-       Public void setName();
-       Public boolean isFirst();
-       Public Boolean getFirst();
+    Public String getName();
+    Public void setName();
+    Public boolean isFirst();
+    Public Boolean getFirst();
 
     // Bad example
     public boolean isNotValidString();
