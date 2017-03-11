@@ -1,0 +1,17 @@
+user.name=
+user.email=
+color.diff=auto
+color.status=auto
+color.ui=auto
+alias.br=branch
+alias.st=status
+alias.lg=log
+alias.co=checkout
+alias.cp=cherry-pick
+alias.cf=config
+alias.pl=pull
+alias.ps=push
+alias.df=diff
+alias.lol=log --oneline
+core.editor=vi
+
