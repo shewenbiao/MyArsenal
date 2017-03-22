@@ -1,0 +1,24 @@
+[user]
+	name = 
+	email = 
+[color]
+	diff = auto
+	status = auto
+	ui = auto
+[alias]
+	br = branch
+	st = status
+	lg = log
+	co = checkout
+	cp = cherry-pick
+	cf = config
+	pl = pull
+	ps = push
+	df = diff
+	lol = log --oneline
+[core]
+	editor = vim
+	excludesfile = /Users/shewenbiao/.gitignore_global
+[push]
+	default = simple
+
