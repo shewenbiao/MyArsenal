@@ -701,9 +701,13 @@ Each line of text in your code should be at most 100 characters long. While much
 
 # Reference
 https://source.android.com/source/code-style.html
+
 https://google.github.io/styleguide/javaguide.html#s5.2.2-class-names
+
 https://github.com/ribot/android-guidelines/blob/master/project_and_code_guidelines.md
+
 https://github.com/ribot/android-guidelines/blob/master/architecture_guidelines/android_architecture.md
+
 https://github.com/futurice/android-best-practices
 
 Java doc:
