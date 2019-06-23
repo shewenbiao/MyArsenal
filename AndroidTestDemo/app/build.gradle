@@ -20,6 +20,12 @@ android {
         sourceCompatibility = '1.8'
         targetCompatibility = '1.8'
     }
+
+    testOptions {
+        unitTests {
+            includeAndroidResources = true
+        }
+    }
 }
 
 dependencies {
@@ -33,4 +39,7 @@ dependencies {
     //mockito
     testImplementation "org.mockito:mockito-core:2.8.9"
     androidTestImplementation "org.mockito:mockito-android:2.8.9"
+
+    //robolectric
+    testImplementation "org.robolectric:robolectric:4.2"
 }
